@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="anklet 12">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eefbf3"/><stop offset="1" stop-color="#d3f3e1"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f6f8"/><stop offset="0.55" stop-color="#b9c0c8"/><stop offset="1" stop-color="#7b8590"/></linearGradient>
+<radialGradient id="gm" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#bfe6ff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<path d="M60 100 Q200 260 340 100" fill="none" stroke="url(#mt)" stroke-width="5"/><circle cx="110" cy="160" r="9" fill="url(#mt)"/><path d="M110 150 v10" stroke="url(#mt)" stroke-width="3"/><circle cx="150" cy="194" r="9" fill="url(#mt)"/><path d="M150 184 v10" stroke="url(#mt)" stroke-width="3"/><circle cx="200" cy="208" r="9" fill="url(#mt)"/><path d="M200 198 v10" stroke="url(#mt)" stroke-width="3"/><circle cx="250" cy="194" r="9" fill="url(#mt)"/><path d="M250 184 v10" stroke="url(#mt)" stroke-width="3"/><circle cx="290" cy="160" r="9" fill="url(#mt)"/><path d="M290 150 v10" stroke="url(#mt)" stroke-width="3"/>
+</svg>

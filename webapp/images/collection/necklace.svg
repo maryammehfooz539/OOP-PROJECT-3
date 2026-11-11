@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="necklace jewellery">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3eefb"/><stop offset="1" stop-color="#e1d4f3"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e27a"/><stop offset="0.55" stop-color="#c9a227"/><stop offset="1" stop-color="#8a6d12"/></linearGradient>
+<radialGradient id="gm" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#bfe6ff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<path d="M60 70 Q200 290 340 70" fill="none" stroke="url(#mt)" stroke-width="6" stroke-linecap="round"/><path d="M150 168 Q200 214 250 168" fill="none" stroke="url(#mt)" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/><polygon points="200,205 224,232 200,262 176,232" fill="url(#gm)" stroke="#6a8aa6" stroke-width="2"/><circle cx="200" cy="200" r="7" fill="url(#mt)"/>
+</svg>

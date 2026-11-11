@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="bangle jewellery">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbf3ee"/><stop offset="1" stop-color="#f3dccf"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e27a"/><stop offset="0.55" stop-color="#c9a227"/><stop offset="1" stop-color="#8a6d12"/></linearGradient>
+<radialGradient id="gm" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#bfe6ff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<ellipse cx="160" cy="165" rx="78" ry="70" fill="none" stroke="url(#mt)" stroke-width="16"/><ellipse cx="240" cy="150" rx="78" ry="70" fill="none" stroke="url(#mt)" stroke-width="16" opacity=".9"/><ellipse cx="160" cy="165" rx="78" ry="70" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3" stroke-dasharray="6 12"/>
+</svg>

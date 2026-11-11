@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="maangtikka 23">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbee"/><stop offset="1" stop-color="#e6f3d3"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9d3c4"/><stop offset="0.55" stop-color="#d99a85"/><stop offset="1" stop-color="#a45f4c"/></linearGradient>
+<radialGradient id="gm" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#bfe6ff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<path d="M70 80 Q200 30 330 80" fill="none" stroke="url(#mt)" stroke-width="5"/><path d="M200 50v60" stroke="url(#mt)" stroke-width="4"/><circle cx="200" cy="125" r="14" fill="url(#mt)"/><circle cx="200" cy="190" r="48" fill="url(#gm)" stroke="url(#mt)" stroke-width="9"/><circle cx="186" cy="176" r="10" fill="#fff" fill-opacity=".85"/>
+</svg>

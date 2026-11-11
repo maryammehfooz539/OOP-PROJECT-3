@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" role="img" aria-label="Model wearing Gemora jewellery">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbe9ec"/><stop offset="1" stop-color="#e4c9dc"/></linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a2c2a"/><stop offset="1" stop-color="#1f1112"/></linearGradient>
+<linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c4a73"/><stop offset="1" stop-color="#4a2548"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e27a"/><stop offset=".55" stop-color="#c9a227"/><stop offset="1" stop-color="#8a6d12"/></linearGradient>
+<radialGradient id="gem" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#cdeaff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient>
+<linearGradient id="skin" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6d3bd"/><stop offset="1" stop-color="#e9b99d"/></linearGradient>
+</defs>
+<rect width="400" height="520" fill="url(#bg)"/>
+<circle cx="330" cy="90" r="70" fill="#ffffff" opacity=".35"/><circle cx="60" cy="430" r="90" fill="#ffffff" opacity=".25"/>
+<g fill="#fff" opacity=".9"><path d="M60 80l4 12 12 4-12 4-4 12-4-12-12-4 12-4z"/><path d="M340 300l3 9 9 3-9 3-3 9-3-9-9-3 9-3z"/><path d="M90 250l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/></g>
+<!-- long hair behind -->
+<path d="M118 175C96 50 304 50 282 175C305 290 330 390 305 480L95 480C70 390 95 290 118 175Z" fill="url(#hair)"/>
+<!-- shoulders / chest -->
+<path d="M50 520C55 410 100 350 172 322L228 322C300 350 345 410 350 520Z" fill="url(#skin)"/>
+<!-- neck -->
+<path d="M170 232L170 322C190 338 210 338 230 322L230 232Z" fill="#e9b99d"/>
+<!-- dress -->
+<path d="M40 520L52 432C92 412 142 424 200 458C258 424 308 412 348 432L360 520Z" fill="url(#dress)"/>
+<path d="M52 432C92 412 142 424 200 458C258 424 308 412 348 432" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<!-- face -->
+<ellipse cx="200" cy="170" rx="60" ry="76" fill="url(#skin)"/>
+<!-- front hair with centre parting -->
+<path d="M136 165C134 88 266 88 264 165C242 122 208 108 200 108C192 108 158 122 136 165Z" fill="url(#hair)"/>
+<path d="M200 106L200 130" stroke="#d9b08c" stroke-width="2" opacity=".7"/>
+<!-- brows, eyes, nose, lips, cheeks -->
+<path d="M165 156q14-9 28-2M207 154q14-7 28 2" fill="none" stroke="#3a2222" stroke-width="3" stroke-linecap="round"/>
+<path d="M167 174q13 9 26 0M207 174q13 9 26 0" fill="none" stroke="#3a2222" stroke-width="2.6" stroke-linecap="round"/>
+<path d="M170 179l-4 4M180 182l-1 5M220 182l1 5M230 179l4 4" stroke="#3a2222" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M199 180q-6 22 2 28" fill="none" stroke="#d29a80" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M181 224q19-9 38 0q-19 17-38 0z" fill="#c4566b"/>
+<circle cx="165" cy="205" r="13" fill="#f08a9a" opacity=".3"/><circle cx="235" cy="205" r="13" fill="#f08a9a" opacity=".3"/>
+<!-- maang tikka -->
+<path d="M200 108L200 134" stroke="url(#gold)" stroke-width="2.5"/>
+<circle cx="200" cy="141" r="8" fill="url(#gem)" stroke="url(#gold)" stroke-width="3"/>
+<!-- earrings -->
+<g><circle cx="141" cy="196" r="4" fill="url(#gold)"/><path d="M141 200v10" stroke="url(#gold)" stroke-width="2.5"/><circle cx="141" cy="222" r="10" fill="url(#gem)" stroke="url(#gold)" stroke-width="3.5"/></g>
+<g><circle cx="259" cy="196" r="4" fill="url(#gold)"/><path d="M259 200v10" stroke="url(#gold)" stroke-width="2.5"/><circle cx="259" cy="222" r="10" fill="url(#gem)" stroke="url(#gold)" stroke-width="3.5"/></g>
+<!-- necklace -->
+<path d="M166 318Q200 372 234 318" fill="none" stroke="url(#gold)" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M156 328Q200 408 244 328" fill="none" stroke="url(#gold)" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+<path d="M200 392L200 386" stroke="url(#gold)" stroke-width="3"/>
+<polygon points="200,386 218,406 200,430 182,406" fill="url(#gem)" stroke="url(#gold)" stroke-width="3.5"/>
+</svg>

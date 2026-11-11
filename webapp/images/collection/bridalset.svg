@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="bridalset jewellery">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbeef7"/><stop offset="1" stop-color="#f3d3ea"/></linearGradient>
+<linearGradient id="mt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6e27a"/><stop offset="0.55" stop-color="#c9a227"/><stop offset="1" stop-color="#8a6d12"/></linearGradient>
+<radialGradient id="gm" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#bfe6ff"/><stop offset="1" stop-color="#5aa7d6"/></radialGradient></defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<path d="M70 60 Q200 230 330 60" fill="none" stroke="url(#mt)" stroke-width="8"/><path d="M95 62 Q200 190 305 62" fill="none" stroke="url(#mt)" stroke-width="5" stroke-dasharray="3 7"/><polygon points="200,165 232,200 200,238 168,200" fill="url(#gm)" stroke="url(#mt)" stroke-width="5"/><circle cx="82" cy="250" r="14" fill="url(#gm)" stroke="url(#mt)" stroke-width="5"/><circle cx="318" cy="250" r="14" fill="url(#gm)" stroke="url(#mt)" stroke-width="5"/><circle cx="200" cy="262" r="10" fill="url(#mt)"/>
+</svg>
